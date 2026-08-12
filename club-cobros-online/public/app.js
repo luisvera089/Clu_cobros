@@ -1,4 +1,4 @@
-﻿const state = {
+const state = {
   initialData: null,
   store: { submissions: [], manualItems: [], customAthletes: [], removedAthleteIds: [] },
   accessCodes: [],
@@ -116,7 +116,7 @@ function statusLabel(status) {
 }
 
 function activePayment(status) {
-  return status !== "rechazado";
+  return status === "aprobado" || status === "importado";
 }
 
 function flattenSubmissions(submissions = allSubmissions()) {
@@ -352,9 +352,9 @@ function renderAthleteSummary(athlete) {
   const pending = submissions.filter((item) => item.status === "pendiente").length;
   const charges = chargesForAthlete(athlete);
   $("#athleteSummary").innerHTML = [
-    ["Pagado registrado", money(total)],
+    ["Pagado aprobado", money(total)],
     ["Saldo estimado", money(balance)],
-    ["Pagos en historial", submissions.length],
+    ["Pagos pendientes", pending],
     ["Items pendientes", charges.filter((charge) => chargeBalance(athlete.id, charge) > 0).length],
   ]
     .map(([label, value]) => `<div class="metric"><span>${label}</span><strong>${value}</strong></div>`)
@@ -660,9 +660,9 @@ function renderHistoryView() {
   const pending = athleteLineTotal(athlete.id, (line) => line.status === "pendiente");
   $("#historySummary").innerHTML = [
     ["Deportista", athlete.name],
-    ["Total registrado", money(total)],
+    ["Pagado aprobado", money(total)],
     ["Saldo estimado", money(balance)],
-    ["Aprobado / Excel", money(approved)],
+    ["Pendiente revision", money(pending)],
   ]
     .map(([label, value]) => `<div class="metric"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong></div>`)
     .join("");
@@ -716,7 +716,7 @@ function renderAdminMetrics() {
   const pendingSubmissions = adminSubmissions().filter((item) => item.status === "pendiente").length;
   const athletes = new Set(rows.map((row) => row.athleteId)).size;
   $("#adminMetrics").innerHTML = [
-    ["Total filtrado", money(total)],
+    ["Total aprobado", money(total)],
     ["Pagos pendientes", pendingSubmissions],
     ["Deportistas", athletes],
     ["Lineas de pago", rows.length],
@@ -843,7 +843,7 @@ function renderGroupTable(rows, key, label) {
         <thead>
           <tr>
             <th>${escapeHtml(label)}</th>
-            <th class="money">Total activo</th>
+            <th class="money">Total aprobado</th>
             <th class="money">Aprobado / Excel</th>
             <th class="money">Pendiente</th>
             <th class="money">Rechazado</th>
