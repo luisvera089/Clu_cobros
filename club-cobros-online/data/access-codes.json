@@ -1,0 +1,1527 @@
+[
+  {
+    "athleteId": "4ever::alejandro-oquendo",
+    "athleteName": "Alejandro Oquendo",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-001-E15693",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::camila-urrea",
+    "athleteName": "Camila Urrea",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-002-B5E244",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::camilo-diaz",
+    "athleteName": "Camilo Diaz",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-003-94A80C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::cesar-gimenez",
+    "athleteName": "Cesar Gimenez",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-004-B9A761",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::diego-torres",
+    "athleteName": "Diego Torres",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-005-530A45",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::edwin-palacios",
+    "athleteName": "Edwin Palacios",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-006-F79CED",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::ganancias-big-show",
+    "athleteName": "GANANCIAS BIG SHOW",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-007-9D68B0",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::harrison-suarez",
+    "athleteName": "Harrison Suarez",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-008-6CB2E2",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::jean-gaona",
+    "athleteName": "Jean Gaona",
+    "team": "4EVER",
+    "accessCode": "Jean123",
+    "active": true,
+    "mustChangePassword": false,
+    "passwordChangedAt": "2026-07-16T19:10:41.147Z"
+  },
+  {
+    "athleteId": "4ever::karen-yepes",
+    "athleteName": "Karen Yepes",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-010-AA0EF5",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::luisa-osorno",
+    "athleteName": "Luisa Osorno",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-011-4FA5D2",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::manuela-ochoa",
+    "athleteName": "Manuela Ochoa",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-012-DF330B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::maria-jose-duque",
+    "athleteName": "Maria Jose Duque",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-013-9E024C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::michael-diaz",
+    "athleteName": "Michael Diaz",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-014-826827",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::salome-gil",
+    "athleteName": "Salome Gil",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-015-457FA1",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::samuel-castano",
+    "athleteName": "Samuel Castaño",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-016-E0008A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::sara-alzate",
+    "athleteName": "Sara Alzate",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-017-5C7209",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::sebastian-herrera",
+    "athleteName": "Sebastian Herrera",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-018-D3B9CA",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::sergio-rocha",
+    "athleteName": "Sergio Rocha",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-019-A90FDE",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::susana-munoz",
+    "athleteName": "Susana Muñoz",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-020-69268E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "4ever::wilyer-osorio",
+    "athleteName": "Wilyer Osorio",
+    "team": "4EVER",
+    "accessCode": "MAS-4EVER-021-1F4E33",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::alejandra-parada",
+    "athleteName": "Alejandra Parada",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-022-7DE6A7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::ana-corredor",
+    "athleteName": "Ana Corredor",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-023-5CB69B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::ana-ortiz",
+    "athleteName": "Ana Ortiz",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-024-BE3287",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::david-rodriguez",
+    "athleteName": "David Rodriguez",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-025-15000D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::emmanuel-echeverri",
+    "athleteName": "Emmanuel Echeverri",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-026-B4494B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::ganancias-big-show",
+    "athleteName": "GANANCIAS BIG SHOW",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-027-EB6B04",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::isabela-restrepo",
+    "athleteName": "Isabela Restrepo",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-028-326EF6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::katerine-robayo",
+    "athleteName": "Katerine Robayo",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-029-B4A5E0",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::manuela-idarraga",
+    "athleteName": "Manuela Idarraga",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-030-F50334",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::marianna-tabares",
+    "athleteName": "Marianna Tabares",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-031-5CD90B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::melany-ospina",
+    "athleteName": "Melany Ospina",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-032-177ABE",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::miguel-cifuentes",
+    "athleteName": "Miguel Cifuentes",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-033-2EB270",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::paulina-puerta",
+    "athleteName": "Paulina Puerta",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-034-40C579",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::samuel-velasquez",
+    "athleteName": "Samuel Velasquez",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-035-D7459E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::sara-raga",
+    "athleteName": "Sara Raga",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-036-9C4AE0",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::valeria-rodriguez",
+    "athleteName": "Valeria Rodriguez",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-037-BCDFB9",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::victoria-medina",
+    "athleteName": "Victoria Medina",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-038-C9677A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::dulce-medina",
+    "athleteName": "Dulce Medina",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-039-10BD83",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::dylan-cano",
+    "athleteName": "Dylan Cano",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-040-8C1145",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::emanuel-yepes",
+    "athleteName": "Emanuel Yepes",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-041-519E63",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::gabo",
+    "athleteName": "Gabo",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-042-964A1E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::gabriela-echeverri",
+    "athleteName": "Gabriela Echeverri",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-043-9C5DAF",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::ganancias-big-show",
+    "athleteName": "ganancias big show",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-044-85BE4E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::isa",
+    "athleteName": "Isa",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-045-FCECD6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::landry-giron",
+    "athleteName": "Landry Giron",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-046-51A13A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::luciana-giraldo",
+    "athleteName": "Luciana Giraldo",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-047-C97413",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::luciana-osorno",
+    "athleteName": "Luciana Osorno",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-048-112130",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::luciana-valencia",
+    "athleteName": "Luciana Valencia",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-049-AADDD2",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::luna-londono",
+    "athleteName": "Luna Londoño",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-050-FA36D7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::maria-fernanda-ospina",
+    "athleteName": "Maria Fernanda Ospina",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-051-01563F",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::mariana-arango",
+    "athleteName": "Mariana Arango",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-052-294272",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::mariana-montano",
+    "athleteName": "Mariana Montaño",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-053-48ACB4",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::melany-buritica",
+    "athleteName": "Melany Buritica",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-054-98FBE3",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::nicole-gallego",
+    "athleteName": "Nicole Gallego",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-055-DBAD18",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::sara-luna",
+    "athleteName": "Sara Luna",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-056-01D03A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::saray-geraldine-zapata",
+    "athleteName": "Saray Geraldine Zapata",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-057-FF4620",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::selena-duque",
+    "athleteName": "Selena Duque",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-058-80C0D6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "claws::valentina-arias",
+    "athleteName": "Valentina Arias",
+    "team": "CLAWS",
+    "accessCode": "MAS-CLAWS-059-F59D7E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::ana-sofia-fernandez",
+    "athleteName": "Ana Sofia Fernandez",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-060-9DBBE1",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::damian-taborda",
+    "athleteName": "Damian Taborda",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-061-FA76A4",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::estefany-montoya",
+    "athleteName": "Estefany Montoya",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-062-8CF21F",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::ganancias-big-show",
+    "athleteName": "ganancias big show",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-063-2B92B8",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::juan-pablo-gomez",
+    "athleteName": "Juan Pablo Gomez",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-064-E4275D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::luciana-zapata",
+    "athleteName": "Luciana Zapata",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-065-55E013",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::luisa-ochoa",
+    "athleteName": "Luisa Ochoa",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-066-B92688",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::mariana-castro",
+    "athleteName": "Mariana castro",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-067-C53FC8",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::mariana-schmbach",
+    "athleteName": "Mariana Schmbach",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-068-256D9B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::melany-castaneda",
+    "athleteName": "Melany Castañeda",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-069-27F4AA",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::paulina-diaz",
+    "athleteName": "Paulina Diaz",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-070-D69CF1",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::salome-gomez",
+    "athleteName": "Salome Gomez",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-071-1B8E2E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::sofia-rivera",
+    "athleteName": "Sofia Rivera",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-072-A33374",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::susana-lenis",
+    "athleteName": "Susana Lenis",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-073-2F5775",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::tatiana-escobar",
+    "athleteName": "Tatiana Escobar",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-074-D5B50C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::valeria-correa",
+    "athleteName": "Valeria Correa",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-075-DD4F5B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::ximena-davila",
+    "athleteName": "Ximena Davila",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-076-546D85",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "crush::ximena-jaramillo",
+    "athleteName": "Ximena Jaramillo",
+    "team": "CRUSH",
+    "accessCode": "MAS-CRUSH-077-BE00A9",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::ana-galvan",
+    "athleteName": "Ana Galvan",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-078-1B7E8E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::erika",
+    "athleteName": "ERIKA",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-079-380298",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::erika-gonzalez",
+    "athleteName": "Erika Gonzalez",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-080-AC8E90",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::estefany-moreno",
+    "athleteName": "Estefany Moreno",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-081-ECD87D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::geraldine-cruz",
+    "athleteName": "Geraldine Cruz",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-082-FD9569",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::isaac-sandoval",
+    "athleteName": "Isaac Sandoval",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-083-7A52AB",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::isabela-castaneda",
+    "athleteName": "Isabela Castañeda",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-084-70CEB7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::isabella-castano",
+    "athleteName": "Isabella Castaño",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-085-9AE9A7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::laura-sofia-callejas",
+    "athleteName": "Laura Sofia Callejas",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-086-EAF610",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::luisa-mayo",
+    "athleteName": "Luisa Mayo",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-087-0D64FE",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::maria-angel-garcia",
+    "athleteName": "Maria Angel Garcia",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-088-FF5307",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::maria-camila-moncada",
+    "athleteName": "Maria Camila Moncada",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-089-708E4E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::mariana-hoyos",
+    "athleteName": "Mariana Hoyos",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-090-8F1018",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::mariana-osorio",
+    "athleteName": "Mariana Osorio",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-091-453193",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::marianyer-montesinos",
+    "athleteName": "Marianyer Montesinos",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-092-261D98",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::nicole-herrera",
+    "athleteName": "Nicole Herrera",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-093-496F59",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::sara-montoya",
+    "athleteName": "Sara Montoya",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-094-4849E8",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "formativo::sofia-correa",
+    "athleteName": "Sofia Correa",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-095-471E7C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::alicia-montecino",
+    "athleteName": "Alicia Montecino",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-096-85BEFC",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::alicia-montesinos",
+    "athleteName": "Alicia Montesinos",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-097-9AD895",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::ana-maria-jimenez",
+    "athleteName": "Ana Maria Jimenez",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-098-BF3DDD",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::aurora-yepes",
+    "athleteName": "Aurora Yepes",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-099-1B699A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::guadalupe-naranjo",
+    "athleteName": "Guadalupe Naranjo",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-100-DAEE10",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::luciana-correa",
+    "athleteName": "Luciana Correa",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-101-1080D5",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::martina-zapata",
+    "athleteName": "Martina Zapata",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-102-FF69A5",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "kids::samantha-uribe",
+    "athleteName": "Samantha Uribe",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-103-B20455",
+    "active": true,
+    "mustChangePassword": true,
+    "passwordChangedAt": "2026-07-15T22:50:39.278Z",
+    "resetAt": "2026-07-15T22:52:02.517Z"
+  },
+  {
+    "athleteId": "ma5::alejandro",
+    "athleteName": "Alejandro",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-104-8C46C1",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::alexander-lopez",
+    "athleteName": "Alexander Lopez",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-105-84124E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::andres-escobar",
+    "athleteName": "Andres Escobar",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-106-75A983",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::anlly-arroyave",
+    "athleteName": "Anlly Arroyave",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-107-0E6BB8",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::brandon-guzman",
+    "athleteName": "Brandon Guzman",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-108-E49A45",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::camilo",
+    "athleteName": "Camilo",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-109-B68CDE",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::cristian-agudelo",
+    "athleteName": "Cristian Agudelo",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-110-EC9870",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::daniel-velasquez",
+    "athleteName": "Daniel Velasquez",
+    "team": "MA5",
+    "accessCode": "Daniel",
+    "active": true,
+    "mustChangePassword": false,
+    "passwordChangedAt": "2026-07-16T19:19:42.851Z"
+  },
+  {
+    "athleteId": "ma5::danilo-pantoja",
+    "athleteName": "Danilo Pantoja",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-112-971825",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::david-gil",
+    "athleteName": "David Gil",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-113-A86AE7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::david-rodriguez",
+    "athleteName": "David Rodriguez",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-114-AF5496",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::demesio-rodriguez",
+    "athleteName": "Demesio Rodriguez",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-115-40BCA7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::duvan-dorronsoro",
+    "athleteName": "Duvan Dorronsoro",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-116-8A6F30",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::ganancias-big-show",
+    "athleteName": "GANANCIAS BIG SHOW",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-117-B4C3FE",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::hanna-gonzalez",
+    "athleteName": "Hanna Gonzalez",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-118-471E9D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::isabela-guerra",
+    "athleteName": "Isabela Guerra",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-119-EA45E6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::jhon-maldonado",
+    "athleteName": "Jhon Maldonado",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-120-83D007",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::juan-esteban-estrada",
+    "athleteName": "Juan Esteban Estrada",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-121-2D1DC8",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::karen",
+    "athleteName": "karen",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-122-9E34AD",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::luis-vera",
+    "athleteName": "Luis Vera",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-123-0C3207",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::maria-jose-granda",
+    "athleteName": "Maria Jose Granda",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-124-409023",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::mariana-ramirez",
+    "athleteName": "Mariana Ramirez",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-125-CF7BCE",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::merilay-holguin",
+    "athleteName": "Merilay Holguin",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-126-95BB50",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::santiago-moya",
+    "athleteName": "Santiago Moya",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-127-56B00A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::sebastian",
+    "athleteName": "Sebastian",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-128-4B8163",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::stiben-mendoza",
+    "athleteName": "Stiben Mendoza",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-129-2A558D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::valentina-vasquez",
+    "athleteName": "Valentina Vasquez",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-130-CF0760",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::valery-marin",
+    "athleteName": "Valery Marin",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-131-8F9819",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::wilyer",
+    "athleteName": "Wilyer",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-132-6ABFA7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::wuendy-izaquita",
+    "athleteName": "Wuendy Izaquita",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-133-60C221",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::yeison-betancur",
+    "athleteName": "Yeison Betancur",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-134-45B9EB",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::yeison-escobar",
+    "athleteName": "Yeison Escobar",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-135-C9621C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "ma5::yoimer-herrera",
+    "athleteName": "Yoimer Herrera",
+    "team": "MA5",
+    "accessCode": "MAS-MA5-136-385250",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::alexandra-regino",
+    "athleteName": "Alexandra Regino",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-137-3C1931",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::ana-sofia-zapata",
+    "athleteName": "Ana Sofia Zapata",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-138-DD1C1B",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::brittany-ariza",
+    "athleteName": "Brittany Ariza",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-139-AD456E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::erika-gonzalez",
+    "athleteName": "Erika Gonzalez",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-140-09D3C6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::ganancias-big-show",
+    "athleteName": "ganancias big show",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-141-15D32C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::isabella-lozano",
+    "athleteName": "Isabella Lozano",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-142-9D4B8E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::karen-osorio",
+    "athleteName": "Karen Osorio",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-143-13DD26",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::manuela-gonzalez",
+    "athleteName": "Manuela Gonzalez",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-144-3A0323",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::mariana-restrepo",
+    "athleteName": "Mariana Restrepo",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-145-76DF73",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::mariangel-garces",
+    "athleteName": "Mariangel Garcés",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-146-119142",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::michelle-rodriguez",
+    "athleteName": "Michelle Rodriguez",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-147-EF7E75",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::valentina-restrepo",
+    "athleteName": "Valentina Restrepo",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-148-4B5692",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::valery-cano",
+    "athleteName": "Valery Cano",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-149-54B6BA",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "magic::yury-caldera",
+    "athleteName": "Yury Caldera",
+    "team": "MAGIC",
+    "accessCode": "MAS-MAGIC-150-BE4B73",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::antonia-ospina",
+    "athleteName": "Antonia Ospina",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-151-F99C54",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::celeste-garcia",
+    "athleteName": "Celeste Garcia",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-152-ED1616",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::dulce-zapata",
+    "athleteName": "Dulce Zapata",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-153-BB4656",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::ganancias-big-show",
+    "athleteName": "ganancias big show",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-154-92D3BB",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::hellen-perez",
+    "athleteName": "Hellen Perez",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-155-BC281A",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::julieta-prieto",
+    "athleteName": "Julieta Prieto",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-156-2DCD6E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::luisa-gallego",
+    "athleteName": "Luisa Gallego",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-157-16E665",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::maria-jose-tabares",
+    "athleteName": "Maria José Tabares",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-158-2DCAE0",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::mariana-gonzalez",
+    "athleteName": "Mariana Gonzalez",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-159-95F910",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::samantha-agudelo",
+    "athleteName": "Samantha Agudelo",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-160-06453E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "mystic::sofia-tangarife",
+    "athleteName": "Sofia tangarife",
+    "team": "MYSTIC",
+    "accessCode": "MAS-MYSTI-161-5A9B69",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::angelina-cano",
+    "athleteName": "Angelina Cano",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-162-D6C722",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::antonella-pacheco",
+    "athleteName": "Antonella Pacheco",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-163-DDDDC9",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::emiliana-restrepo-miranda",
+    "athleteName": "Emiliana Restrepo Miranda",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-164-B17B98",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::ganancias-big-show",
+    "athleteName": "ganancias big show",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-165-E1DBC7",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::isabella-paniagua",
+    "athleteName": "Isabella Paniagua",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-166-E450A6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::luciana-marin",
+    "athleteName": "Luciana Marin",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-167-D47967",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::maria-valeria-zapata",
+    "athleteName": "Maria Valeria Zapata",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-168-3053F9",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::merilexy-tovar",
+    "athleteName": "Merilexy Tovar",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-169-1F7547",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::milagros-henao",
+    "athleteName": "Milagros Henao",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-170-1129CB",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::naomi-estrada",
+    "athleteName": "Naomi Estrada",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-171-B0EF4D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::sharay-madrigal",
+    "athleteName": "Sharay Madrigal",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-172-1343A9",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "pixies::valery-jaramillo",
+    "athleteName": "Valery Jaramillo",
+    "team": "PIXIES",
+    "accessCode": "MAS-PIXIE-173-B9AF13",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::gabriela-barrera",
+    "athleteName": "Gabriela Barrera",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-174-5F2059",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::ganancias-big-show",
+    "athleteName": "ganancias big show",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-175-1E189E",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::isabel-lopez",
+    "athleteName": "Isabel Lopez",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-176-480E07",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::julieta",
+    "athleteName": "Julieta",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-177-A1FC07",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::luciana-molina",
+    "athleteName": "Luciana Molina",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-178-1FC7E6",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::luciana-reina",
+    "athleteName": "Luciana Reina",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-179-88698D",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::maria-angel-rios",
+    "athleteName": "Maria Angel Rios",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-180-894CDD",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::mariana-reina",
+    "athleteName": "Mariana Reina",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-181-8DE7CF",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::miguel-ramirez",
+    "athleteName": "Miguel Ramirez",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-182-4739D5",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::samuel-galeano",
+    "athleteName": "Samuel Galeano",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-183-D17B68",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::sara-leiton",
+    "athleteName": "Sara Leiton",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-184-649903",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::susana-ocampo",
+    "athleteName": "Susana Ocampo",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-185-B3643C",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::valentina-quintana",
+    "athleteName": "Valentina Quintana",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-186-6BA406",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "wings::zoe-olano",
+    "athleteName": "Zoe Olano",
+    "team": "WINGS",
+    "accessCode": "MAS-WINGS-187-2E0FDF",
+    "active": true,
+    "mustChangePassword": true
+  },
+  {
+    "athleteId": "blue::jehe-constante",
+    "athleteName": "Jehe Constante",
+    "team": "BLUE",
+    "accessCode": "MAS-BLUE-188-5B7ACD",
+    "mustChangePassword": true,
+    "active": true
+  },
+  {
+    "athleteId": "formativo::isabella-saldarriaga",
+    "athleteName": "Isabella Saldarriaga",
+    "team": "FORMATIVO",
+    "accessCode": "MAS-FORMA-189-EFA7FF",
+    "mustChangePassword": true,
+    "active": true
+  },
+  {
+    "athleteId": "custom::kids::prueba-temporal-online-f17bbecd",
+    "athleteName": "PRUEBA TEMPORAL ONLINE",
+    "team": "KIDS",
+    "accessCode": "MAS-KIDS-190-7D9648",
+    "mustChangePassword": true,
+    "active": false,
+    "createdAt": "2026-08-12T16:15:26.338Z"
+  }
+]

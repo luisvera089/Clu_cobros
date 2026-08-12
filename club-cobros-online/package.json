@@ -1,0 +1,13 @@
+{
+  "name": "club-cobros",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicacion web para gestion de cobros de club deportivo.",
+  "scripts": {
+    "start": "node server.js",
+    "import:excel": "python scripts/import_excel.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

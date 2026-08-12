@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Club Cobros</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <img src="/assets/mas-logo.png" alt="MAS" class="brand-mark" />
+          <div>
+            <strong>Club Cobros</strong>
+            <span>Temporada 2026</span>
+          </div>
+        </div>
+
+        <nav class="nav" aria-label="Secciones">
+          <button class="nav-button active" type="button" data-view="athlete">Registrar pago</button>
+          <button class="nav-button" type="button" data-view="history">Mis pagos</button>
+          <button class="nav-button" type="button" data-view="admin">Administrador</button>
+        </nav>
+
+        <div class="sidebar-meta">
+          <span id="datasetStatus">Cargando base...</span>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <h1 id="pageTitle">Registrar pago</h1>
+            <p id="pageSubtitle">Pagos, soportes y reportes del club.</p>
+          </div>
+          <button class="secondary-button" id="refreshData" type="button">Actualizar</button>
+        </header>
+
+        <section id="alertRegion" class="alert-region" aria-live="polite"></section>
+
+        <section id="view-athlete" class="view active">
+          <div class="finder-grid">
+            <label class="field">
+              <span>Equipo</span>
+              <select id="teamFilter"></select>
+            </label>
+            <label class="field search-field">
+              <span>Nombre del deportista</span>
+              <input id="athleteSearch" type="search" autocomplete="off" placeholder="Buscar por nombre" />
+              <div id="searchResults" class="search-results" role="listbox"></div>
+            </label>
+          </div>
+
+          <div id="selectedAthletePanel" class="workspace-panel hidden">
+            <div class="panel-heading">
+              <div>
+                <span class="eyebrow">Deportista</span>
+                <h2 id="selectedAthleteName"></h2>
+              </div>
+              <span id="selectedTeamBadge" class="team-badge"></span>
+            </div>
+
+            <form id="athleteAccessForm" class="access-panel">
+              <label class="field">
+                <span>Codigo inicial o contraseña</span>
+                <input id="athleteAccessCode" type="password" autocomplete="one-time-code" placeholder="Codigo asignado" />
+              </label>
+              <button class="primary-button" type="submit">Ver mis pagos</button>
+            </form>
+
+            <form id="athletePasswordForm" class="access-panel hidden">
+              <label class="field">
+                <span>Nueva contraseña</span>
+                <input id="newAthletePassword" type="password" autocomplete="new-password" placeholder="Minimo 6 caracteres" />
+              </label>
+              <label class="field">
+                <span>Confirmar</span>
+                <input id="confirmAthletePassword" type="password" autocomplete="new-password" placeholder="Repite la contraseña" />
+              </label>
+              <button class="primary-button" type="submit">Guardar contraseña</button>
+            </form>
+
+            <div id="athletePrivateArea" class="hidden">
+            <div class="private-toolbar">
+              <span>Sesion privada activa</span>
+              <button class="secondary-button" id="athleteLogout" type="button">Cerrar sesion</button>
+            </div>
+            <div class="summary-strip" id="athleteSummary"></div>
+
+            <div class="payment-layout">
+              <form id="paymentForm" class="payment-form">
+                <div class="section-heading">
+                  <h3>Registro</h3>
+                  <span id="selectedItemCount">0 items</span>
+                </div>
+
+                <div class="form-grid">
+                  <label class="field">
+                    <span>Pagador</span>
+                    <input id="payerName" type="text" placeholder="Nombre de quien paga" />
+                  </label>
+                  <label class="field">
+                    <span>Fecha de pago</span>
+                    <input id="paidAt" type="date" />
+                  </label>
+                  <label class="field file-field">
+                    <span>Soporte</span>
+                    <input id="supportFile" type="file" accept="image/*,.pdf" required />
+                  </label>
+                  <label class="field">
+                    <span>Nota</span>
+                    <input id="paymentNotes" type="text" placeholder="Referencia o detalle adicional" />
+                  </label>
+                </div>
+
+                <div id="categoryFilters" class="segmented"></div>
+                <div id="chargeList" class="charge-list"></div>
+
+                <div class="manual-entry">
+                  <div class="manual-grid">
+                    <label class="field">
+                      <span>Tipo</span>
+                      <select id="manualCategory">
+                        <option>Mensualidad</option>
+                        <option>Concepto</option>
+                        <option>Flexibilidad</option>
+                        <option>Otro</option>
+                      </select>
+                    </label>
+                    <label class="field">
+                      <span>Item</span>
+                      <input id="manualItemName" type="text" placeholder="Item manual" />
+                    </label>
+                    <label class="field">
+                      <span>Valor</span>
+                      <input id="manualAmount" type="number" min="0" step="1000" placeholder="0" />
+                    </label>
+                    <button class="secondary-button manual-add" id="addManualLine" type="button">Agregar</button>
+                  </div>
+                  <div id="manualDraftList" class="manual-draft-list"></div>
+                </div>
+
+                <div class="form-footer">
+                  <strong id="paymentTotal">$0</strong>
+                  <button class="primary-button" type="submit">Enviar pago</button>
+                </div>
+              </form>
+
+              <aside class="history-panel">
+                <div class="section-heading">
+                  <h3>Historial</h3>
+                  <span id="athleteHistoryCount">0 pagos</span>
+                </div>
+                <div id="athleteHistoryList" class="compact-list"></div>
+              </aside>
+            </div>
+            </div>
+          </div>
+
+          <div id="emptyAthleteState" class="empty-state">
+            <img src="/assets/mas-logo.png" alt="" />
+            <h2>Busca un deportista</h2>
+            <p>El formulario se activa al seleccionar un nombre de la base.</p>
+          </div>
+        </section>
+
+        <section id="view-history" class="view">
+          <div class="workspace-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="eyebrow">Consulta</span>
+                <h2>Mis pagos</h2>
+              </div>
+              <span id="historyAthleteBadge" class="team-badge">Sin deportista</span>
+            </div>
+            <div id="historySummary" class="summary-strip"></div>
+            <div id="historyTable" class="data-table-wrap"></div>
+          </div>
+        </section>
+
+        <section id="view-admin" class="view">
+          <div id="adminLocked" class="workspace-panel narrow-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="eyebrow">Acceso</span>
+                <h2>Administrador</h2>
+              </div>
+            </div>
+            <form id="adminLoginForm" class="login-row">
+              <label class="field">
+                <span>Código</span>
+                <input id="adminCode" type="password" autocomplete="current-password" />
+              </label>
+              <button class="primary-button" type="submit">Entrar</button>
+            </form>
+          </div>
+
+          <div id="adminPanel" class="workspace-panel hidden">
+            <div class="panel-heading">
+              <div>
+                <span class="eyebrow">Panel</span>
+                <h2>Administrador</h2>
+              </div>
+              <div class="admin-actions">
+                <button class="primary-button" id="quickAddPaymentItem" type="button">Agregar cobro</button>
+                <button class="secondary-button" id="quickAddAthlete" type="button">Agregar deportista</button>
+                <button class="secondary-button" id="quickBulkImport" type="button">Cargar masivo</button>
+                <button class="secondary-button" id="exportCsv" type="button">Exportar CSV</button>
+              </div>
+            </div>
+
+            <div id="adminMetrics" class="summary-strip"></div>
+
+            <div class="admin-filters">
+              <label class="field">
+                <span>Equipo</span>
+                <select id="adminTeamFilter"></select>
+              </label>
+              <label class="field">
+                <span>Estado</span>
+                <select id="adminStatusFilter">
+                  <option value="">Todos</option>
+                  <option value="pendiente">Pendiente</option>
+                  <option value="aprobado">Aprobado</option>
+                  <option value="rechazado">Rechazado</option>
+                  <option value="importado">Excel</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>Item</span>
+                <select id="adminItemFilter"></select>
+              </label>
+              <label class="field">
+                <span>Buscar</span>
+                <input id="adminSearch" type="search" placeholder="Persona o referencia" />
+              </label>
+            </div>
+
+            <div class="segmented admin-tabs">
+              <button class="active" type="button" data-admin-tab="payments">Pagos</button>
+              <button type="button" data-admin-tab="team">Por equipo</button>
+              <button type="button" data-admin-tab="athlete">Por deportista</button>
+              <button type="button" data-admin-tab="item">Por item</button>
+              <button type="button" data-admin-tab="catalog">Catalogo</button>
+              <button type="button" data-admin-tab="athletes">Deportistas</button>
+              <button type="button" data-admin-tab="imports">Cargas</button>
+            </div>
+
+            <div id="adminContent"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
